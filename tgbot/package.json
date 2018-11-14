@@ -1,0 +1,15 @@
+{
+  "name": "magazinbot",
+  "version": "1.0.0",
+  "description": "Internet magazin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Husniddin Tugizov",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}

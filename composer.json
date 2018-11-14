@@ -1,0 +1,15 @@
+{
+  "name": "ilopx/yii2-basic-htaccess",
+  "description": "Set web directory in webroot",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ilopX",
+      "email": "ilopX@ukr.net"
+    }
+  ],
+  "require": {
+    "aki/yii2-bot-telegram": "^1.5"
+, "mirkhamidov/yii2-bot-telegram": "dev-master"  }
+}
